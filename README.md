@@ -1,2 +1,0 @@
-# portfolioProjects
-My projects Code
